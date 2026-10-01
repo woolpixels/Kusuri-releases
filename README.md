@@ -92,4 +92,6 @@ shasum -a 256 ~/Downloads/Kusuri-1.3.0-arm64.dmg
 
 ---
 
-Kusuri · 薬 — Made by Woolpixels · Copyright © 2026 Woolpixels
+Kusuri · 薬 — Made by [Woolpixels](https://woolpixels.cc/) · 官网：<https://woolpixels.cc/>
+
+Copyright © 2026 Woolpixels
